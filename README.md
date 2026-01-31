@@ -1,4 +1,4 @@
-- Project : Student Performance Tracker - 
+ Project : Student Performance Tracker 
 
 
 Project Function Lists:
